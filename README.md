@@ -1,5 +1,5 @@
-↳ Jestem K1nz
+↳ Jestem k1nz 👋
 
-↳ Potrafię: Java, Python
-
-↳ Ucze się: JavaScript, HTML, CSS
+↳ Potrafię: Java, Python 💻
+ 
+↳ Ucze się: JavaScript, HTML, CSS ⚒️
